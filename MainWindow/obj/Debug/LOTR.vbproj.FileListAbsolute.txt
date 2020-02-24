@@ -1,0 +1,38 @@
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.exe
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.pdb
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.xml
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.mainWindow.resources
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.Resources.resources
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\LOTR.vbproj.GenerateResource.Cache
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.exe
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.xml
+c:\users\glen robles\documents\visual studio 2013\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.pdb
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\bin\Debug\MainWindow.exe.config
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\MainWindow.exe
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\MainWindow.xml
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\MainWindow.pdb
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\bin\Debug\MainWindow.exe
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\bin\Debug\MainWindow.pdb
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\bin\Debug\MainWindow.xml
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\MainWindow.mainWindow.resources
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\MainWindow.Resources.resources
+C:\Users\Glen Robles\Documents\Visual Studio 2013\Projects\LOTR\MainWindow\obj\Debug\LOTR.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MainWindow.exe.config
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MainWindow.exe
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MainWindow.pdb
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MainWindow.xml
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.Admin.resources
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.Login.resources
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.Staff.resources
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.Resources.resources
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.OrderDetails.resources
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\LOTR.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.exe
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.xml
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\MainWindow.pdb
+C:\Users\ASUS\Desktop\LOTR\LOTR\MainWindow\obj\Debug\LOTR.vbprojResolveAssemblyReference.cache
